@@ -4,3 +4,5 @@
 study01= csv파일에서 인구수 그래프그리기, 텍스트 데이터(Boki.txt) 선택하여 빈도수 추출하기
 
 study02=텍스트 데이터(Boki.txt) 빈도수 추출, wordcloud 생성
+
+## 팀프로젝트 진행중
