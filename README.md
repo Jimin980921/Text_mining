@@ -8,11 +8,11 @@ study01= csv파일에서 인구수 그래프그리기
 
 study02=텍스트 데이터(Boki.txt) 빈도수 추출, wordcloud 생성
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84596439-ba2d1480-ae98-11ea-887f-a456605d35a0.JPG" width="400" height="350">
+<img src="https://user-images.githubusercontent.com/57060127/84596439-ba2d1480-ae98-11ea-887f-a456605d35a0.JPG" width=50% height="350">
 </p>
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84596497-1f810580-ae99-11ea-99eb-02cafac8ba9b.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/57060127/84596497-1f810580-ae99-11ea-99eb-02cafac8ba9b.png" width=50% height="350">
 </p>
 
 ## 팀프로젝트 진행중
