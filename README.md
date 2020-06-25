@@ -3,7 +3,7 @@
 
 study01= csv파일에서 인구수 그래프그리기
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/84596440-bc8f6e80-ae98-11ea-8e28-eb6424fce3ae.JPG" width=50% height=100%>
+<img src="https://user-images.githubusercontent.com/57060127/84596440-bc8f6e80-ae98-11ea-8e28-eb6424fce3ae.JPG" width=50% height=50%>
 </p>
 
 study02=텍스트 데이터(Boki.txt) 빈도수 추출, wordcloud 생성
