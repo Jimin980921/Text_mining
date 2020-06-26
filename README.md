@@ -7,13 +7,9 @@ study01= csv파일에서 인구수 그래프그리기
 </p>
 
 study02=텍스트 데이터(Boki.txt) 빈도수 추출, wordcloud 생성
-<p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/84596439-ba2d1480-ae98-11ea-887f-a456605d35a0.JPG" width=50% height="350">
-</p>
 
-<p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/84596497-1f810580-ae99-11ea-99eb-02cafac8ba9b.png" width=50% height="350">
-</p>
 
 ## 팀프로젝트 진행중
 >에어팟 1세대와 2세대의 성능차이를 소비자가 느껴서 구매하는가? 1세대 리뷰 긍정도 2세대 리뷰 긍정도 증가세 비교
