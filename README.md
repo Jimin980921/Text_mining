@@ -36,5 +36,5 @@ study02=텍스트 데이터 빈도수 추출, wordcloud 생성
 ![](https://user-images.githubusercontent.com/57060127/85819556-fde42000-b7ae-11ea-9e78-b491f47f55b7.png)  |  ![](https://user-images.githubusercontent.com/57060127/85819171-d476c480-b7ad-11ea-9a4c-092396b1306c.png)
 
 3. 성능이 변한 카테고리의 평균 긍정도가 성능 변화없는 카테고리의 평균 긍정도보다 3.5배 높은 것을 알 수 있었다. 하지만 성능이 변화없는 카테고리 또한 소폭 증가하였으므로 보유효과 또한 작용했다고 볼 수 있다. 
-<img src="https://user-images.githubusercontent.com/57060127/85819784-c2962100-b7af-11ea-9898-5275c2f2ff14.png" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/57060127/85820040-59fb7400-b7b0-11ea-91fa-7b2615f58778.png" width="400" height="300">
 
