@@ -16,13 +16,11 @@ study02=텍스트 데이터 빈도수 추출, wordcloud 생성
 (자세한 설명: 프로젝트 계획서, 최종발표자료 참고)
 
 * 네이버쇼핑 리뷰 크롤링(에어팟종류, 카테고리, 리뷰, 별점) > 수집한 데이터 전처리, 형태소 분석, 빈도수 분석 > 긍정리뷰에서 빈도수 높은 단어 positive 감정사전에 추가, 부정리뷰에서 빈도수 높은 단어 negative 감정사전에 추가 > 감정분석으로 각 리뷰의 긍정도 계산 > 별점과 긍정도가 상이한 경우 리뷰 삭제 > 에어팟 종류별 카테고리 긍정도 변화 분석
- 
- <긍정, 부정 감정사전 단어 추가>
- <img src="https://user-images.githubusercontent.com/57060127/85818881-d2603600-b7ac-11ea-89fe-a3ee3220bbaa.png" width="600" height="350"> 
- 
- 
- <별점과 긍정도가 상이한 리뷰를 제거 후, 별점, 긍정도 일치하는 것을 확인>
- <img src="https://user-images.githubusercontent.com/57060127/85818955-076c8880-b7ad-11ea-9ce8-60ebcd9cc878.png" width="200" height="250"> 
+
+빈도수 높은 긍,부정 감정사전 단어 추가  |  별점, 긍정도 일치
+:------------------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/57060127/85818881-d2603600-b7ac-11ea-89fe-a3ee3220bbaa.png)  |  ![](https://user-images.githubusercontent.com/57060127/85818955-076c8880-b7ad-11ea-9ce8-60ebcd9cc878.png)
+
  
 
 
