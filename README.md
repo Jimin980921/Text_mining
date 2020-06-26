@@ -20,4 +20,4 @@ study02=텍스트 데이터 빈도수 추출, wordcloud 생성
 
 * 결과: 
  1. 대부분의 리뷰 별점 4~5점대 분포. 소비자들이 부정적인 리뷰를 잘 남기지 않는 경향이 있음.
- <img src="https://user-images.githubusercontent.com/57060127/85818322-55808c80-b7ab-11ea-9131-c54188373a14.png" width="70" height="150">
+ <img src="https://user-images.githubusercontent.com/57060127/85818322-55808c80-b7ab-11ea-9131-c54188373a14.png" width="50%" height="200">
