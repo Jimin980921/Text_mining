@@ -40,3 +40,5 @@ study02=텍스트 데이터 빈도수 추출, wordcloud 생성
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57060127/85820040-59fb7400-b7b0-11ea-91fa-7b2615f58778.png" width=50%>
 </p>
+<br>
+<br>
