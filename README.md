@@ -42,3 +42,7 @@ study02=텍스트 데이터 빈도수 추출, wordcloud 생성
 </p>
 <br>
 <br>
+
+[유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)  
+[네이버 지도 크롤링 ](https://github.com/Jimin980921/Dongjak_bigdata_project)
+
