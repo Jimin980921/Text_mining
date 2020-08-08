@@ -35,7 +35,7 @@ __5단계__: 데이터 정제
 
 ## 데이터 분석 결과
  1. 대부분의 리뷰 별점 4~5점대 분포. 소비자들이 부정적인 리뷰를 잘 남기지 않는 경향이 있음
- <img src="https://user-images.githubusercontent.com/57060127/85818322-55808c80-b7ab-11ea-9131-c54188373a14.png" width=25%>
+ <img src="https://user-images.githubusercontent.com/57060127/85818322-55808c80-b7ab-11ea-9131-c54188373a14.png" width=20%>
  <br>
  
  2. 에어팟 1세대보다 2세대의 긍정도가 높음. 카테고리별 긍정도 또한 전체적으로 증가
