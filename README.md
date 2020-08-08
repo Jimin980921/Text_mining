@@ -21,7 +21,7 @@
 __1단계__: 네이버쇼핑 리뷰 크롤링(에어팟종류, 카테고리, 리뷰, 별점)  
 __2단계__: 수집한 데이터 전처리, 형태소 분석, 빈도수 분석  
 __3단계__: 긍정리뷰에서 빈도수 높은 단어 positive 감정사전에 추가, 부정리뷰에서 빈도수 높은 단어 negative 감정사전에 추가  
-<img src="https://user-images.githubusercontent.com/57060127/85818881-d2603600-b7ac-11ea-89fe-a3ee3220bbaa.png" width=50%>
+<img src="https://user-images.githubusercontent.com/57060127/85818881-d2603600-b7ac-11ea-89fe-a3ee3220bbaa.png" width=60%>
 <br>
 
 __4단계__: 감정분석으로 각 리뷰의 긍정도 계산  
