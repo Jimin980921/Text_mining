@@ -21,13 +21,16 @@
 __1단계__: 네이버쇼핑 리뷰 크롤링(에어팟종류, 카테고리, 리뷰, 별점)  
 <img src="https://user-images.githubusercontent.com/57060127/89911794-cc26fb80-dc2c-11ea-937e-35dc4dcb099a.JPG" width=60%>
 <br>
-__2단계__: 수집한 데이터 전처리, 형태소 분석, 빈도수 분석  
+__2단계__: 수집한 데이터 전처리, 형태소 분석(토큰화)  
+<img src="https://user-images.githubusercontent.com/57060127/89912655-c1b93180-dc2d-11ea-9fce-180214872332.JPG" width=60%>
+<br>
 
 __3단계__: 긍정리뷰에서 빈도수 높은 단어 positive 감정사전에 추가, 부정리뷰에서 빈도수 높은 단어 negative 감정사전에 추가  
 <img src="https://user-images.githubusercontent.com/57060127/85818881-d2603600-b7ac-11ea-89fe-a3ee3220bbaa.png" width=60%>
 <br>
 
 __4단계__: 감정분석으로 각 리뷰의 긍정도 계산  
+<br>
 
 __5단계__: 데이터 정제  
 별점과 긍정도가 상이한 경우 리뷰 삭제  
@@ -36,7 +39,7 @@ __5단계__: 데이터 정제
 
 -----------------------------------------------------------------------
 
-## 데이터 분석 결과
+## 데이터 분석  
  1. 대부분의 리뷰 별점 4~5점대 분포. 소비자들이 부정적인 리뷰를 잘 남기지 않는 경향이 있음
  <img src="https://user-images.githubusercontent.com/57060127/85818322-55808c80-b7ab-11ea-9131-c54188373a14.png" width=20%>
  <br>
