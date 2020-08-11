@@ -22,7 +22,7 @@ __1단계__: 네이버쇼핑 리뷰 크롤링(에어팟종류, 카테고리, 리
 <img src="https://user-images.githubusercontent.com/57060127/89911794-cc26fb80-dc2c-11ea-937e-35dc4dcb099a.JPG" width=60%>
 <br>
 __2단계__: 수집한 데이터 전처리, 형태소 분석(토큰화)  
-<img src="https://user-images.githubusercontent.com/57060127/89912655-c1b93180-dc2d-11ea-9fce-180214872332.JPG" width=80%>
+<img src="https://user-images.githubusercontent.com/57060127/89912655-c1b93180-dc2d-11ea-9fce-180214872332.JPG" width=90%>
 <br>
 
 __3단계__: 긍정리뷰에서 빈도수 높은 단어 positive 감정사전에 추가, 부정리뷰에서 빈도수 높은 단어 negative 감정사전에 추가  
