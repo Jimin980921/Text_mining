@@ -21,11 +21,13 @@
 
 ## 개발 단계   
 __1단계__: 네이버쇼핑 리뷰 크롤링(에어팟종류, 카테고리, 리뷰, 별점)  
+  - [네이버쇼핑 리뷰 크롤링](https://github.com/Jimin980921/Text_mining/blob/master/Project/data/output.csv)
 <img src="https://user-images.githubusercontent.com/57060127/89911794-cc26fb80-dc2c-11ea-937e-35dc4dcb099a.JPG" width=60%>
 <br>
 <br>
 
 __2단계__: 수집한 데이터 전처리, 형태소 분석(토큰화)  
+  - [토큰화](https://github.com/Jimin980921/Text_mining/blob/master/Project/data/token_output.csv)
 <img src="https://user-images.githubusercontent.com/57060127/89912655-c1b93180-dc2d-11ea-9fce-180214872332.JPG" width=90%>
 <br>
 <br>
