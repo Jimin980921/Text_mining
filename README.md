@@ -15,6 +15,7 @@
 
 (자세한 설명: [최종발표자료](https://github.com/Jimin980921/Text_mining/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) 참고)
 <br>
+<br>
 
 
 ----------------------------------------------------------
@@ -48,6 +49,8 @@ __5단계__: 데이터 정제
 별점과 긍정도가 상이한 경우 리뷰 삭제  
 <img src="https://user-images.githubusercontent.com/57060127/85818955-076c8880-b7ad-11ea-9ce8-60ebcd9cc878.png" width=20%>
 <br>
+<br>
+
 
 -----------------------------------------------------------------------
 
@@ -68,6 +71,7 @@ __5단계__: 데이터 정제
 <p>
 <img src="https://user-images.githubusercontent.com/57060127/85820040-59fb7400-b7b0-11ea-91fa-7b2615f58778.png" width=50%>
 </p>
+<br>
 <br>
 <br>
 
