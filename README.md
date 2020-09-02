@@ -75,9 +75,10 @@ __5단계__: 데이터 정제
 <br>
 <br>
 <br>
+ 
 
-
-[네이버 지도 크롤링 ](https://github.com/Jimin980921/Dongjak_bigdata_project)  
-[유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)  
+- 유사 프로젝트  
+   - [네이버 지도 크롤링 ](https://github.com/Jimin980921/Dongjak_bigdata_project) 
+   - [유튜브 크롤링](https://github.com/Jimin980921/youtube_crawling)
 
 
