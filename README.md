@@ -11,7 +11,7 @@
 
 
 ## 프로젝트 주제 
-<img src="https://user-images.githubusercontent.com/57060127/94516611-232a7380-0261-11eb-9f3d-0c5fbbd7b6fe.JPG" width=70%>
+<img src="https://user-images.githubusercontent.com/57060127/94516611-232a7380-0261-11eb-9f3d-0c5fbbd7b6fe.JPG" width=50%>
 
 (자세한 설명: [최종발표자료](https://github.com/Jimin980921/Text_mining/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) 참고)
 <br>
