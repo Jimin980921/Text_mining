@@ -3,7 +3,7 @@
 
   - study01= csv파일에서 인구수 그래프 시각화
 
-  - study02=텍스트 데이터 빈도수 추출, wordcloud 생성  
+  - study02=텍스트 데이터 빈도수 추출, wordcloud 생성     
     
 
 
