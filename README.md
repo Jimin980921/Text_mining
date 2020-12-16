@@ -1,9 +1,12 @@
 
 - 4학년 1학기_텍스트마이닝을 이용한 소비자분석 과제   
  
-  - study01= csv파일에서 인구수 그래프 시각화  
- 
-  - study02=텍스트 데이터 빈도수 추출, wordcloud 생성     
+  - study01  
+   > csv파일에서 인구수 데이터 가져와서 시각화 하기  
+   <img src="https://user-images.githubusercontent.com/57060127/102313968-ef83fd80-3fb4-11eb-805c-539e6baf4241.JPG" width=50%>  
+   
+  - study02  
+  > 텍스트 데이터 빈도수 추출, wordcloud 생성     
     
   
  
