@@ -55,6 +55,7 @@ __데이터__: 네이버 쇼핑 리뷰
  __1. 대부분의 리뷰 별점 4~5점대 분포. 소비자들이 부정적인 리뷰를 잘 남기지 않는 경향이 있음__  
  <img src="https://user-images.githubusercontent.com/57060127/85818322-55808c80-b7ab-11ea-9131-c54188373a14.png" width=20%>
  <br>
+ 
  __2. 에어팟 1세대, 2세대 모두 '음질'에 대한 리뷰가 많음. 소비자가 에어팟에서 음질에 가장 관심이 있음을 알 수 있음__  
  <img src="https://user-images.githubusercontent.com/57060127/102316162-c82f2f80-3fb8-11eb-83b7-8b8fe2c7f05b.JPG" width=20%>  
  <br>
