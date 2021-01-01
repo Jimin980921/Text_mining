@@ -16,38 +16,29 @@ __데이터__: 네이버 쇼핑 리뷰
 ### 1단계: 데이터 수집  
 > 네이버쇼핑 리뷰 크롤링(에어팟종류, 카테고리, 리뷰, 별점)  
   - __네이버쇼핑 리뷰 크롤링__ - [data](https://github.com/Jimin980921/Text_mining/blob/master/Project/data/output.csv)
-<img src="https://user-images.githubusercontent.com/57060127/89911794-cc26fb80-dc2c-11ea-937e-35dc4dcb099a.JPG" width=70%>
-<br>
-<br>
-
+<img src="https://user-images.githubusercontent.com/57060127/89911794-cc26fb80-dc2c-11ea-937e-35dc4dcb099a.JPG" width=70%>  
+<p>
+  
 ### 2단계: 데이터 전처리  
 > 불용어 제거, 형태소 분석(토큰화)  
   - __토큰화__ - [data](https://github.com/Jimin980921/Text_mining/blob/master/Project/data/token_output.csv)
 <img src="https://user-images.githubusercontent.com/57060127/89912655-c1b93180-dc2d-11ea-9fce-180214872332.JPG" width=90%>
-<br>
-<br>
-
-
+<p>
+  
 ### 3단계: 감정사전 추가   
 > 긍정리뷰에서 빈도수 높은 단어 => positive 감정사전 / 부정리뷰에서 빈도수 높은 단어 => negative 감정사전 추가  
 <img src="https://user-images.githubusercontent.com/57060127/85818881-d2603600-b7ac-11ea-89fe-a3ee3220bbaa.png" width=70%>
-<br>
-<br>
-
-
+<p>
+  
 ### 4단계: 리뷰 긍정도 계산  
 > 긍,부정단어를 추가한 감정사전을 이용하여 리뷰 긍정도 계산 (범위 0~1, 1에 가까울수록 긍정, 0에 가까울수록 부정)  
-<br>
-<br>
-
-
+<P>
+  
 ### 5단계: 데이터 정제  
 > 별점은 높지만, 리뷰 긍정도가 낮게 측정된 경우 해당 리뷰는 분석에서 제외함  
 > 예) '너무 좋아요! 걱정헀는데 다행입니다', 별점:5점 / 리뷰긍정도: 0.1 => 삭제  
 <img src="https://user-images.githubusercontent.com/57060127/85818955-076c8880-b7ad-11ea-9ce8-60ebcd9cc878.png" width=20%>
 <br>
-<br>
- 
 
 -----------------------------------------------------------------------
 
